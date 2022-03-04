@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<participante id="1">
+    <nombre>Nirvana</nombre>
+    <nacionalidad>Americana</nacionalidad>
+    <integrantes>
+        <integrante id="1">
+            <nombre>Kurt</nombre>
+            <apellidos>Cobain</apellidos>
+            <edad>27</edad>
+            <instrumento>Guitarra-Vocalista</instrumento>
+        </integrante>
+        <integrante id="2">
+            <nombre>Krist</nombre>
+            <apellidos>Novoselic</apellidos>
+            <edad>56</edad>
+            <instrumento>Bajo</instrumento>
+        </integrante>
+        <integrante id="3">
+            <nombre>Chad</nombre>
+            <apellidos>Channing</apellidos>
+            <edad>55</edad>
+            <instrumento>Bateria</instrumento>
+        </integrante>
+    </integrantes>
+    <disco_exito>Nevermind</disco_exito>
+</participante>

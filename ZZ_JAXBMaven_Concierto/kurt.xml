@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<musico id="1">
+    <nombre>Kurt</nombre>
+    <apellidos>Cobain</apellidos>
+    <edad>27</edad>
+    <instrumento>Guitarra-Vocalista</instrumento>
+</musico>
